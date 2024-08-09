@@ -1,3 +1,5 @@
+//About the features of SPOTIFY UI CLONE
+
 1. Dark Themed User Interface
 
 -The entire UI is styled with a dark theme, using black and dark shades for the background and white text for contrast. This is consistent across all sections of the application.

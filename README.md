@@ -66,4 +66,4 @@ Features:
 
 Features:
 
--The main content area and possibly other sections are designed to handle overflow with custom scroll behavior, allowing for a smooth user experience even with a lot of content.
+-The main content area and possibly other sections are designed to handle overflow with custom scroll behavior, allowing for a smooth user experience even with a lot of content..

@@ -1,4 +1,4 @@
-//About the features of SPOTIFY UI CLONE
+About the features of SPOTIFY UI CLONE
 
 1. Dark Themed User Interface
 
